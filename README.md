@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wael-alloush.wael-alloush&left_text=Visitors&left_color=%230d3b34&right_color=%23e3b341" alt="Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wael-alloush.wael-alloush&left_text=Visitors&left_color=%230d3b34&right_color=%230d3b34" alt="Visitors" />
 
 <br />
 
