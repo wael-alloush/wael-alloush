@@ -16,9 +16,8 @@
 [![Email](https://img.shields.io/badge/Email-e3b341?style=for-the-badge&logo=gmail&logoColor=0d3b34)](mailto:waelee2018@gmail.com)
 
 <br />
-<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e3b341&height=3&section=header&text=%20&fontSize=1" width="140" alt="" />
+<img src="rule.svg" width="160" height="4" alt="" />
 
 ### About
 
@@ -27,7 +26,7 @@
 I build modern web applications, dashboards, and business systems  
 with React, Next.js, Laravel, and Tailwind CSS.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e3b341&height=3&section=header&text=%20&fontSize=1" width="140" alt="" />
+<img src="rule.svg" width="160" height="4" alt="" />
 
 <br />
 <br />
