@@ -9,6 +9,7 @@ on:
       - main
     paths-ignore:
       - snake.svg
+      - visitors.svg
 
 jobs:
   generate:
@@ -28,8 +29,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: commit snake svg
+      - name: generate visitor badge
+        run: python3 .github/visitor_badge.py
+
+      - name: commit generated images
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update contribution snake
-          file_pattern: snake.svg
+          file_pattern: |
+            snake.svg
+            visitors.svg
