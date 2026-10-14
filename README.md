@@ -6,14 +6,13 @@
 
 <br />
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wael-alloush.wael-alloush&left_text=Visitors&left_color=%230d3b34&right_color=%23e3b341" alt="Visitors" />
-
-<br />
-<br />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d3b34?style=for-the-badge&logo=linkedin&logoColor=e3b341)](https://www.linkedin.com/in/wael-alloush/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d3b34?style=for-the-badge&logo=github&logoColor=e3b341)](https://github.com/wael-alloush)
 [![Email](https://img.shields.io/badge/Email-e3b341?style=for-the-badge&logo=gmail&logoColor=0d3b34)](mailto:waelee2018@gmail.com)
+
+<br />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wael-alloush.wael-alloush&left_text=Visitors&left_color=%230d3b34&right_color=%23e3b341" alt="Visitors" />
 
 <br />
 
@@ -29,15 +28,13 @@ with React, Next.js, Laravel, and Tailwind CSS.
 <img src="rule.svg" width="160" height="4" alt="" />
 
 <br />
-<br />
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,js,tailwind,mysql,git&perline=8" alt="React, Next.js, Laravel, PHP, JavaScript, Tailwind CSS, MySQL, Git" />
 
 <br />
-<br />
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wael-alloush&show_icons=true&hide_border=true&include_all_commits=true&border_radius=16&bg_color=0d3b34&title_color=e3b341&icon_color=e3b341&text_color=f7f6f2&ring_color=e3b341" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-alloush&layout=compact&hide_border=true&langs_count=6&border_radius=16&bg_color=0d3b34&title_color=e3b341&text_color=f7f6f2" />
+<img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wael-alloush&show_icons=true&hide_border=true&include_all_commits=true&border_radius=16&bg_color=0d3b34&title_color=e3b341&icon_color=e3b341&text_color=f7f6f2&ring_color=e3b341" />
+<img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-alloush&layout=compact&hide_border=true&langs_count=6&border_radius=16&bg_color=0d3b34&title_color=e3b341&text_color=f7f6f2" />
 
 <br />
 
