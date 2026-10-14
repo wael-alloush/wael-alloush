@@ -24,7 +24,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: wael-alloush
-          outputs: "snake.svg?color_snake=#e3b341&color_dots=#1e564c,#2a7a62,#3d9a74,#c4a035,#e3b341&color_background=#0d3b34"
+          outputs: "snake.svg?color_snake=#e3b341&color_dots=#0000001f,#00000047,#00000073,#000000a6,#000000d1&color_background=#00000000"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
