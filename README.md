@@ -16,8 +16,9 @@
 [![Email](https://img.shields.io/badge/Email-e3b341?style=for-the-badge&logo=gmail&logoColor=0d3b34)](mailto:waelee2018@gmail.com)
 
 <br />
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e3b341&height=3&section=header&text=%20&fontSize=1" width="88" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e3b341&height=3&section=header&text=%20&fontSize=1" width="140" alt="" />
 
 ### About
 
@@ -26,8 +27,9 @@
 I build modern web applications, dashboards, and business systems  
 with React, Next.js, Laravel, and Tailwind CSS.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e3b341&height=3&section=header&text=%20&fontSize=1" width="88" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e3b341&height=3&section=header&text=%20&fontSize=1" width="140" alt="" />
 
+<br />
 <br />
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,js,tailwind,mysql,git&perline=8" alt="React, Next.js, Laravel, PHP, JavaScript, Tailwind CSS, MySQL, Git" />
@@ -45,6 +47,8 @@ with React, Next.js, Laravel, and Tailwind CSS.
 <br />
 
 <img src="snake.svg" alt="Snake animation" />
+
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3b341,100:0d3b34&height=90&section=footer" width="100%" alt="" />
 
