@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b34,60:14584a,100:e3b341&height=210&section=header&text=Wael%20Alalloush&fontSize=46&fontColor=f7f6f2&animation=fadeIn&fontAlignY=34&desc=Junior%20Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Wael Alalloush" />
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=E3B341&center=true&vCenter=true&width=680&height=46&lines=React+%C2%B7+Next.js+%C2%B7+Laravel;Practical+business+solutions;Clean%2C+maintainable+web+apps)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=E3B341&center=true&vCenter=true&width=680&height=46&lines=React+%C2%B7+Next.js+%C2%B7+Node.js;TypeScript+%C2%B7+Tailwind+CSS;Clean%2C+maintainable+web+apps)](https://git.io/typing-svg)
 
 <br />
 
@@ -23,13 +23,13 @@
 **Software Engineer and Full-Stack Developer**
 
 I build modern web applications, dashboards, and business systems  
-with React, Next.js, Laravel, and Tailwind CSS.
+with React, Next.js, Node.js, and Tailwind CSS.
 
 <img src="rule.svg" width="160" height="4" alt="" />
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,js,tailwind,mysql,git&perline=8" alt="React, Next.js, Laravel, PHP, JavaScript, Tailwind CSS, MySQL, Git" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux&perline=6" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Redux" />
 
 <br />
 
