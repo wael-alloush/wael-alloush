@@ -42,10 +42,6 @@ with React, Next.js, Laravel, and Tailwind CSS.
 
 <br />
 
-<img src="snake.svg" alt="Snake animation" />
-
-<br />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3b341,100:0d3b34&height=90&section=footer" width="100%" alt="" />
 
 </div>
