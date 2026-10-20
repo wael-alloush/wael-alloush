@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b34,60:14584a,100:e3b341&height=210&section=header&text=Wael%20Alalloush&fontSize=46&fontColor=f7f6f2&animation=fadeIn&fontAlignY=34&desc=Junior%20Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Wael Alalloush" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b34,60:14584a,100:e3b341&height=210&section=header&text=Wael%20Alalloush&fontSize=46&fontColor=f7f6f2&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Wael Alalloush" />
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=E3B341&center=true&vCenter=true&width=680&height=46&lines=React+%C2%B7+Next.js+%C2%B7+Node.js;TypeScript+%C2%B7+Tailwind+CSS;Clean%2C+maintainable+web+apps)](https://git.io/typing-svg)
 
